@@ -1,0 +1,62 @@
+header {
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color: white;
+
+}
+
+.nav-links{
+    list-style-type: none;
+}
+
+#home {
+    background-color: lightgreen;
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+#about {
+    background-color: lightcoral;
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.nested {
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+#contact {
+    background-color: lightpink;
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+#services {
+    background-color: lightgray;
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.service-list{
+    list-style-type: none;
+}
